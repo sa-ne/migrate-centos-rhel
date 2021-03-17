@@ -26,7 +26,7 @@ subscription-manager-rhsm-certificates-1.27.16-1.el8.x86_64 \
 subscription-manager-1.27.16-1.el8.x86_64 \
 dnf-plugin-subscription-manager-1.27.16-1.el8.x86_64
 ```
-## Install the convert2rhel utility (Note - el8.noarch.rpm is for CentOS 8 systems. Use el7.noarch.rpm for CentOS systems):
+## Install the convert2rhel utility (Note - el8.noarch.rpm is for CentOS 8 systems. Use el7.noarch.rpm for CentOS 7 systems):
 ```
 # yum install -y https://github.com/oamg/convert2rhel/releases/download/v0.17/convert2rhel-0.17-1.el8.noarch.rpm
 ```
@@ -59,5 +59,5 @@ Red Hat Enterprise Linux release 8.3 (Ootpa)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njc1MzA4MV19
+eyJoaXN0b3J5IjpbMTAzMzcyODAyLDE5NDY3NTMwODFdfQ==
 -->
