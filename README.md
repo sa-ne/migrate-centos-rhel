@@ -56,6 +56,10 @@ https://sat01.example.org/pub/katello-ca-consumer-latest.noarch.rpm
 # cat /etc/redhat-release 
 Red Hat Enterprise Linux release 8.3 (Ootpa)
 ```
+## Notes:
+- The convert2rhel utility is not supported by Red Hat
+- This procedure was successfully tested on CentOS Linux 7 and CentOS Linux 8 systems
+- This procedure worked on CentOS Stream 8 systems after modifying /etc/system-release to match a CentOS Linux 8 system
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
